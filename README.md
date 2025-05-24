@@ -22,19 +22,6 @@ This was one of my first full-stack projects and helped me understand the flow o
 - **Backend**: ASP.NET Core MVC
 - **Database**: SQL Server with Entity Framework Core
 - **Language**: C#
-
----
-
-## 📁 Folder Structure
-
-MyCarManagementApplication/
-├── Controllers/ # MVC Controllers (CarController.cs)
-├── Models/ # Car model/entity
-├── Views/ # Razor Views for car pages
-├── wwwroot/ # Static assets (CSS, JS)
-├── Data/ # EF Core DbContext
-└── MyCarManagementApplication.csproj
-
 ---
 Project Timeline
 📌 Built in 2023 during my ASP.NET learning phase
