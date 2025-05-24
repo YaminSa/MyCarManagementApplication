@@ -1,0 +1,135 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+
+<style>
+    body {
+        background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/Car-Brands-Image.png') no-repeat center center fixed;
+        background-size: cover;
+        font-family: 'Roboto', Arial, sans-serif;
+        margin: 0;
+    }
+
+    .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+    }
+
+    .card {
+        background-color: rgba(255, 255, 255, 0.95);
+        border-radius: 15px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        padding: 2.5rem;
+    }
+
+    .vh-100 {
+        min-height: 100vh;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        border: 1px solid #bbb;
+        padding-left: 2.5rem;
+        font-size: 1rem;
+        height: 45px;
+    }
+
+        .form-control:focus {
+            border-color: #ff4500;
+            box-shadow: 0 0 5px rgba(255, 69, 0, 0.7);
+        }
+
+    .input-group-text {
+        position: absolute;
+        left: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #888;
+        font-size: 1.2rem;
+    }
+
+    .btn-primary {
+        background: #ff4500;
+        border: none;
+        border-radius: 8px;
+        padding: 12px 20px;
+        font-weight: bold;
+        font-size: 1rem;
+        color: white;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .btn-primary:hover {
+            background: #e63e00;
+            transform: translateY(-2px);
+        }
+
+    .btn-link {
+        text-decoration: none;
+        color: #ff4500;
+        font-weight: bold;
+    }
+
+        .btn-link:hover {
+            text-decoration: underline;
+            color: #e63e00;
+        }
+
+    .text-center {
+        color: #444;
+    }
+
+    .alert {
+        border-radius: 8px;
+        font-size: 0.9rem;
+    }
+</style>
+
+<div class="overlay"></div>
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card">
+        <h3 class="text-center mb-4">Create Your Account</h3>
+
+        <form method="post">
+            <div class="mb-3 position-relative">
+                <span class="input-group-text"><i class="fa fa-user"></i></span>
+                <input type="text" class="form-control" id="username" name="username" placeholder="Enter your username" required>
+            </div>
+            <div class="mb-3 position-relative">
+                <span class="input-group-text"><i class="fa fa-lock"></i></span>
+                <input type="password" class="form-control" id="password" name="password" placeholder="Enter your password" required>
+            </div>
+            <div class="mb-3 position-relative">
+                <span class="input-group-text"><i class="fa fa-lock"></i></span>
+                <input type="password" class="form-control" id="confirm-password" name="confirm-password" placeholder="Confirm your password" required>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Register</button>
+        </form>
+
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="alert alert-danger mt-3">
+                @ViewBag.ErrorMessage
+            </div>
+        }
+
+        <p class="text-center mt-4 mb-0">
+            Already have an account? <a href="/Account/Login" class="btn btn-link">Login</a>
+        </p>
+    </div>
+</div>
+
+<footer>
+    <div>
+        &copy; 2024 - MyCarManagementApplication | <a href="/Privacy">Privacy Policy</a>
+    </div>
+    <div class="mt-2">
+        <a href="#" class="me-2"><i class="fa fa-facebook"></i></a>
+        <a href="#" class="me-2"><i class="fa fa-twitter"></i></a>
+        <a href="#"><i class="fa fa-linkedin"></i></a>
+    </div>
+</footer>

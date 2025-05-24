@@ -1,0 +1,137 @@
+﻿@model IEnumerable<MyCarManagementApplication.Models.Car>
+
+<div class="video-background">
+    <video autoplay muted loop id="bg-video">
+        <source src="/Images/Cars-Video.webm" type="video/webm">
+    </video>
+</div>
+
+<h1 class="text-center" style="
+    margin: 20px 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+">
+    Car Listings
+</h1>
+
+<div class="container">
+    <form method="get" asp-action="Index" class="row g-3 mb-4">
+        <div class="col-md-8">
+            <div class="input-group">
+                <input type="text" name="searchString" class="form-control" placeholder="Search for cars..." value="@ViewData["CurrentFilter"]" style="border-radius: 5px 0 0 5px; padding: 10px;" />
+                <button type="submit" class="btn btn-primary" style="border-radius: 0 5px 5px 0;">Search</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <select class="form-select" onchange="location.href=this.value;" style="border-radius: 5px; padding: 10px;">
+                <option value="@Url.Action("Index", new { sort = "", searchString = ViewData["CurrentFilter"] })">Sort by</option>
+                <option value="@Url.Action("Index", new { sort = "price", searchString = ViewData["CurrentFilter"] })">Price</option>
+                <option value="@Url.Action("Index", new { sort = "year", searchString = ViewData["CurrentFilter"] })">Year</option>
+                <option value="@Url.Action("Index", new { sort = "make", searchString = ViewData["CurrentFilter"] })">Make</option>
+            </select>
+        </div>
+    </form>
+</div>
+
+<div class="container mb-4 text-center">
+    <a asp-action="Create" class="btn btn-primary" style="padding: 10px 20px; font-size: 1rem; border-radius: 5px;">Add New Car</a>
+</div>
+
+@if (!Model.Any())
+{
+    <div class="container">
+        <p class="text-center text-danger" style="font-size: 1.2rem; font-weight: bold;">No car available</p>
+    </div>
+}
+else
+{
+    <div class="container">
+        <div class="row">
+            @foreach (var car in Model)
+            {
+                string yearCategory;
+                string badgeClass;
+
+                if (DateTime.Now.Year - car.Year > 20)
+                {
+                    yearCategory = "Classic";
+                    badgeClass = "badge bg-danger";
+                }
+                else if (DateTime.Now.Year - car.Year <= 20 && DateTime.Now.Year - car.Year > 5)
+                {
+                    yearCategory = "Modern";
+                    badgeClass = "badge bg-warning";
+                }
+                else
+                {
+                    yearCategory = "New";
+                    badgeClass = "badge bg-success";
+                }
+
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-sm" style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+                        @if (!string.IsNullOrEmpty(car.ImagePath))
+                        {
+                            <img src="@car.ImagePath" alt="@car.Make @car.Model" class="card-img-top" style="max-height: 200px; object-fit: cover; border-top-left-radius: 10px; border-top-right-radius: 10px;" />
+                        }
+                        <div class="card-body text-center" style="padding: 20px;">
+                            <h5 class="card-title" style="font-size: 1.25rem; font-weight: bold;">@car.Make @car.Model</h5>
+                            <p class="card-text" style="margin-bottom: 10px;">
+                                <span class="@badgeClass" style="padding: 5px 10px; border-radius: 5px;">@yearCategory</span> (@car.Year)
+                            </p>
+                            <p class="card-text text-primary fw-bold" style="font-size: 1.1rem;">$@car.Price.ToString("N2")</p>
+                            <div class="d-flex justify-content-center">
+                                <a asp-action="Edit" asp-route-id="@car.Id" class="btn btn-warning btn-sm mx-1" style="padding: 5px 15px; font-size: 0.9rem;">Edit</a>
+                                <form asp-action="Delete" asp-route-id="@car.Id" method="post" class="mx-1">
+                                    <button type="submit" class="btn btn-danger btn-sm" style="padding: 5px 15px; font-size: 0.9rem;">Delete</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="text-center mt-3">
+            <div style="background: rgba(255, 255, 255, 0.9); padding: 20px; border-radius: 10px; display: inline-block; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                <p style="font-size: 1.2rem; font-weight: bold; margin: 0; color: #333;">Total Cars: <strong>@Model.Count()</strong></p>
+                <p style="font-size: 1.2rem; font-weight: bold; margin: 0; color: #333;">Average Price: <strong>@Model.Average(c => c.Price).ToString("C")</strong></p>
+            </div>
+        </div>
+    </div>
+}
+
+<style>
+    .video-background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        overflow: hidden;
+    }
+
+    #bg-video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        opacity: 0.8;
+    }
+
+    .card-img-top {
+        width: 100%;
+        height: auto;
+        max-height: 200px;
+    }
+
+    footer {
+        background-color: white;
+        color: black;
+        text-align: center;
+        padding: 10px 0;
+        position: relative;
+        z-index: 2;
+    }
+</style>

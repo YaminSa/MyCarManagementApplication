@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Welcome";
+}
+
+<style>
+    .welcome-container {
+        position: relative;
+        text-align: center;
+        color: white;
+        height: 100vh;
+        background: url('/images/BMW-M4-CSL.jpg') no-repeat center center;
+        background-size: cover;
+    }
+
+    .welcome-container {
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url('/images/BMW-M4-CSL.jpg') no-repeat center center fixed;
+        background-size: cover;
+    }
+
+    .welcome-text {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.6); 
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+        .welcome-text h1 {
+            font-size: 3rem;
+        }
+
+        .welcome-text p {
+            font-size: 1.2rem;
+        }
+
+        .welcome-text a {
+            font-size: 1.2rem;
+            padding: 10px 20px;
+        }
+</style>
+
+<div class="welcome-container">
+    <div class="welcome-text">
+        <h1>Welcome to My Car Management Application</h1>
+        <p>Manage your car listings effortlessly.</p>
+        <a href="/Car/Index" class="btn btn-primary">Go to Car Listings</a>
+    </div>
+</div>

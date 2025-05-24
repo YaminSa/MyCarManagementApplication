@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+<script type="text/javascript">
+/* <![CDATA[ */
+ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}}); 
+/* ]]> */
+</script>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v23.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>2023 Toyota GR Supra MT - MotorWeek</title>
+	<link rel="canonical" href="https://motorweek.org/road_tests/2023-toyota-gr-supra-mt-2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="2023 Toyota GR Supra MT - MotorWeek" />
+	<meta property="og:url" content="https://motorweek.org/road_tests/2023-toyota-gr-supra-mt-2/" />
+	<meta property="og:site_name" content="MotorWeek" />
+	<meta property="article:published_time" content="2023-03-10T18:58:07+00:00" />
+	<meta name="author" content="Jessica Ray" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Jessica Ray" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://motorweek.org/road_tests/2023-toyota-gr-supra-mt-2/","url":"https://motorweek.org/road_tests/2023-toyota-gr-supra-mt-2/","name":"2023 Toyota GR Supra MT - MotorWeek","isPartOf":{"@id":"https://motorweek.org/#website"},"datePublished":"2023-03-10T18:58:07+00:00","dateModified":"2023-03-10T18:58:07+00:00","author":{"@id":"https://motorweek.org/#/schema/person/4751b7ad0ce2c571f18b28570b4d974b"},"breadcrumb":{"@id":"https://motorweek.org/road_tests/2023-toyota-gr-supra-mt-2/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://motorweek.org/road_tests/2023-toyota-gr-supra-mt-2/"]}]},{"@type":"BreadcrumbList","@id":"https://motorweek.org/road_tests/2023-toyota-gr-supra-mt-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://motorweek.org/"},{"@type":"ListItem","position":2,"name":"2023 Toyota GR Supra MT"}]},{"@type":"WebSite","@id":"https://motorweek.org/#website","url":"https://motorweek.org/","name":"MotorWeek","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://motorweek.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://motorweek.org/#/schema/person/4751b7ad0ce2c571f18b28570b4d974b","name":"Jessica Ray","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://motorweek.org/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/df493d0eb881020e88f8e19f804ef9cd?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/df493d0eb881020e88f8e19f804ef9cd?s=96&d=mm&r=g","caption":"Jessica Ray"},"url":"https://motorweek.org/author/jessica/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel="alternate" type="application/rss+xml" title="MotorWeek &raquo; Feed" href="https://motorweek.org/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://motorweek.org/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wp-video-popup-css' href='https://motorweek.org/wp-content/plugins/responsive-youtube-vimeo-popup/assets/css/wp-video-popup.css?ver=2.10.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mr-style-css' href='https://motorweek.org/wp-content/themes/motorweek/style.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css' href='https://motorweek.org/wp-content/themes/motorweek/assets/css/style.css?ver=1732823436' type='text/css' media='all' />
+<script type="text/javascript" src="https://motorweek.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://motorweek.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://motorweek.org/wp-content/themes/motorweek/assets/js/jquery.slick.min.js?ver=6.7.1" id="jquery.slick.min.js-js"></script>
+<script type="text/javascript" src="https://motorweek.org/wp-content/themes/motorweek/assets/js/jquery.main.js?ver=6.7.1" id="jquery.main.js-js"></script>
+
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://motorweek.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmotorweek.org%2Froad_tests%2F2023-toyota-gr-supra-mt-2%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://motorweek.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmotorweek.org%2Froad_tests%2F2023-toyota-gr-supra-mt-2%2F&#038;format=xml" />
+<meta name="cdp-version" content="1.4.9" />	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="application-name" content="MotorWeek" />
+	<meta name="msapplication-TileColor" content="#ffffff" />
+	<link rel="stylesheet" href="https://use.typekit.net/ttz6wvn.css">
+
+    <script>
+        (function($) {
+            $(document).on('facetwp-refresh', function() {
+                if ( FWP.soft_refresh == true ) {
+                    FWP.enable_scroll = true;
+                } else {
+                    FWP.enable_scroll = false;
+                }
+            });
+            $(document).on('facetwp-loaded', function() {
+                if ( FWP.enable_scroll == true ) {
+                    $('html, body').animate({ scrollTop: 0 }, 500);
+                }
+            });
+        })(jQuery);
+    </script>
+
+<link rel="icon" href="https://motorweek.org/wp-content/uploads/2022/10/cropped-favicon-1-145x145.png" sizes="32x32" />
+<link rel="icon" href="https://motorweek.org/wp-content/uploads/2022/10/cropped-favicon-1-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://motorweek.org/wp-content/uploads/2022/10/cropped-favicon-1-300x300.png" />
+<meta name="msapplication-TileImage" content="https://motorweek.org/wp-content/uploads/2022/10/cropped-favicon-1-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			 .grecaptcha-badge {
+  width: 70px !important;
+  overflow: hidden !important;
+  transition: all 0.3s ease !important;
+  left: 4px !important;
+	 z-index: 100;
+}
+
+.grecaptcha-badge:hover {
+  width: 256px !important;
+}
+#episode-container {
+    flex-direction: column;
+}		</style>
+			
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-K4LPRGS');</script>
+	<!-- End Google Tag Manager -->
+
+	<script type="text/javascript">
+		//analytics
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-1303717-6', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<script type="text/javascript" src="data:text/javascript;base64,
+
+LyogQWxsaSBBSSB3aWRnZXQgZm9yIG1vdG9yd2Vlay5vcmcgKi8KKGZ1bmN0aW9uICh3LGQscyxvLGYsanMsZmpzKSB7d1snQWxsaUpTV2lkZ2V0J109bzt3W29dID0gd1tvXSB8fCBmdW5jdGlvbiAoKSB7ICh3W29dLnEgPSB3W29dLnEgfHwgW10pLnB1c2goYXJndW1lbnRzKSB9O2pzID0gZC5jcmVhdGVFbGVtZW50KHMpLCBmanMgPSBkLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdO2pzLmlkID0gbzsganMuc3JjID0gZjsganMuYXN5bmMgPSAxOyBmanMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoanMsIGZqcyk7fSh3aW5kb3csIGRvY3VtZW50LCAnc2NyaXB0JywgJ2FsbGknLCAnaHR0cHM6Ly9zdGF0aWMuYWxsaWFpLmNvbS93aWRnZXQvdjEuanMnKSk7YWxsaSgnaW5pdCcsICdzaXRlX1ZXMnBlRUZrTUNzQlNNYTInKTthbGxpKCdvcHRpbWl6ZScsICdhbGwnKTs="></script>	
+	
+</head>
+<body class="post-template-default single single-post postid-10552 single-format-standard">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4LPRGS"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+	<div id="page">
+		<header id="header">
+			<div class="top-row">
+				<div class="container">
+					<a href="https://www.pbs.org/" target="_blank" rel="noopener"><img src="https://motorweek.org/wp-content/themes/motorweek/assets/img/pbs.svg" alt="PBS" title="PBS" /></a>
+											<div class="sponsors">
+							<strong>Sponsored By:</strong>
+															<a href="https://www.autovalue.com/" target="_blank" rel="noopener">
+									<img width="612" height="159" src="https://motorweek.org/wp-content/uploads/2023/04/auto-color.png" class="attachment-logo size-logo" alt="" title="" decoding="async" fetchpriority="high" srcset="https://motorweek.org/wp-content/uploads/2023/04/auto-color.png 612w, https://motorweek.org/wp-content/uploads/2023/04/auto-color-300x78.png 300w" sizes="(max-width: 612px) 100vw, 612px" />									<img width="142" height="37" src="https://motorweek.org/wp-content/uploads/2023/04/Auto-Value-gray-e1682101840291.png" class="hover" alt="" title="" decoding="async" />								</a>
+															<a href="https://www.tirerack.com/content/tirerack/desktop/en/homepage.html" target="_blank" rel="noopener">
+									<img width="974" height="200" src="https://motorweek.org/wp-content/uploads/2023/04/tirerack-color.png" class="attachment-logo size-logo" alt="" title="" decoding="async" srcset="https://motorweek.org/wp-content/uploads/2023/04/tirerack-color.png 974w, https://motorweek.org/wp-content/uploads/2023/04/tirerack-color-768x158.png 768w, https://motorweek.org/wp-content/uploads/2023/04/tirerack-color-300x62.png 300w, https://motorweek.org/wp-content/uploads/2023/04/tirerack-color-893x183.png 893w" sizes="(max-width: 974px) 100vw, 974px" />									<img width="171" height="35" src="https://motorweek.org/wp-content/uploads/2023/04/tire-rack-gray-e1682101665249.png" class="hover" alt="" title="" decoding="async" />								</a>
+														</div>
+									</div>
+			</div>
+			<div class="main-header">
+				<div class="container">
+					<a href="https://motorweek.org" class="logo"><img src="https://motorweek.org/wp-content/themes/motorweek/assets/img/logo.svg" alt="MotorWeek" title="MotorWeek" id="logo"></a>
+					<div class="menu-items">
+						<div class="main-menu">
+							<ul id="menu-main-menu" class="menu"><li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://motorweek.org/reviews/">Reviews</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="https://motorweek.org/auto-news/">Auto News</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="https://motorweek.org/features/">Features</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://motorweek.org/watch/">Watch MotorWeek</a></li>
+</ul>						</div>
+						<button type="button" class="menu-button"><span class="humb">Menu</span></button>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div class="side-menu">
+			<div class="menu-h">
+				<button type="button" class="close-button">Close</button>
+				<div class="search-box">
+					<form action="/" method="get">
+						<label for="search">Search in https://motorweek.org/</label>
+						<input type="text" name="s" id="search" placeholder="Search" value="" />
+					</form>
+				</div>
+				<ul id="menu-side-menu" class="menu"><li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-183"><a href="https://motorweek.org/reviews/">Reviews</a>
+<ul class="sub-menu">
+	<li id="menu-item-10085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10085"><a href="/reviews/?_reviews=road_tests">Road Tests</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10088"><a href="/reviews/?_reviews=comparison_tests">Comparison Tests</a></li>
+		<li id="menu-item-10454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10454"><a href="https://motorweek.org/reviews/?_reviews=track_tests">Track Tests</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10084"><a href="/reviews/?_reviews=first_impressions">First Impressions</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10455"><a href="https://motorweek.org/reviews/?_reviews=first_drives">First Drives</a></li>
+		<li id="menu-item-10456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10456"><a href="https://motorweek.org/reviews/?_reviews=first_looks">First Looks</a></li>
+		<li id="menu-item-10457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10457"><a href="https://motorweek.org/reviews/?_reviews=quick_spins">Quick Spins</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10087"><a href="/reviews/?_reviews=two_wheelin">Two Wheelin&#8217;</a></li>
+	<li id="menu-item-10089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10089"><a href="/reviews/?_reviews=long_term">Long Term Updates</a></li>
+	<li id="menu-item-14549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14549"><a href="/drivers-choice-awards/2024-drivers-choice-awards/">Drivers’ Choice Awards</a></li>
+</ul>
+</li>
+<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-182"><a href="https://motorweek.org/auto-news/">Auto News</a>
+<ul class="sub-menu">
+	<li id="menu-item-10091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10091"><a href="/auto-news/?_auto_news=this_just_in">This Just In</a></li>
+	<li id="menu-item-10092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10092"><a href="/auto-news/?_auto_news=motor_news">Motor News</a></li>
+	<li id="menu-item-10031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10031"><a href="https://motorweek.org/category/book_reviews/">Book Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-181"><a href="https://motorweek.org/features/">Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-10326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10326"><a href="/features/?_features=auto_world">Auto World</a></li>
+	<li id="menu-item-10329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10329"><a href="/features/?_features=car_care">Car Care</a></li>
+	<li id="menu-item-10327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10327"><a href="/features/?_features=fyi">FYI</a></li>
+	<li id="menu-item-10325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10325"><a href="/features/?_features=green_motoring">Green Motoring</a></li>
+	<li id="menu-item-10328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10328"><a href="/features/?_features=over_the_edge">Over the Edge</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://motorweek.org/podcast-list/">Podcasts</a></li>
+</ul>
+</li>
+<li id="menu-item-10033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10033"><a href="/whos-who/">About the show</a>
+<ul class="sub-menu">
+	<li id="menu-item-10034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10034"><a href="https://motorweek.org/whos-who/">Who’s Who</a></li>
+	<li id="menu-item-10079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10079"><a href="https://motorweek.org/overview/">Overview</a></li>
+	<li id="menu-item-10078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10078"><a href="https://motorweek.org/press-room/">Press Room</a></li>
+</ul>
+</li>
+<li id="menu-item-13966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13966"><a href="https://motorweek.org/watch/">Watch MotorWeek</a></li>
+</ul>			</div>
+		</div>
+		<div id="content">
+	<section class="top-banner"><img width="1920" height="800" src="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-5-1920x800.jpg" class="attachment-banner size-banner" alt="2023 Toyota GR Supra MT 2" title="" decoding="async" /></section>		<section class="content">
+			<div class="container">
+				<h1>2023 Toyota GR Supra MT</h1>
+				<div class="header"><h3>Exactly What The Supra Needed</h3></div>					<div class="video-bottom">
+						<div class='subtitle'>Episode 4227</div>					</div>
+								<div class="flex-box">
+											<div class="right-col">
+							<div class="blurb-banners">
+								<a href="https://www.autovalue.com/"><img width="300" height="250" src="https://motorweek.org/wp-content/uploads/2023/04/AV-and-BB-300-x-250.png" class="attachment-ad-banner size-ad-banner" alt="Auto Value and Bumper to Bumper" title="" decoding="async" loading="lazy" /></a><a href="https://www.tirerack.com/content/tirerack/desktop/en/homepage.html"><img width="300" height="250" src="https://motorweek.org/wp-content/uploads/2023/04/Motorweek_300x250.gif" class="attachment-ad-banner size-ad-banner" alt="Tire Rack &quot;The Way Tire Buying Should Be&quot;" title="" decoding="async" loading="lazy" /></a>							</div>
+						</div>
+										<div class="main-content">
+						<div style="margin-bottom: 15px;"><p>We were thrilled when Toyota brought the Supra sport coupe back, and even more ecstatic to find out it truly delivered the high-performance goods. And much like the original, Toyota has been making regular enhancements to keep the good times rolling. So, time now to hit the track in the updated Supra and update ourselves on all the fun.</p>
+<p>The Toyota Supra, in its reborn GR Supra form, has been on the scene for just 3-years, but already it has cemented its place as a leader among the current crop of sporting coupes. For 2023, the long rumored manual transmission has arrived, along with a few other updates that are sure to make its case even more solid.</p>
+<p>The Supra’s new 6-speed comes from ZF but has been heavily modified for the Supra, and is only available with the 6-cylinder engine. That 3.0-liter inline-6 turbo is BMW-sourced of course, though output has increased from its initial 335-horsepower, to 382-horsepower, and 368 lb-ft. of torque, or almost identical to the automatic-only BMW Z4. And, as we found out at Savannah’s Roebling Road Raceway, Toyota has done much more than just drop in a new manual transmission and call it a day.</p>
+</div><pre style='display:none'>images: Array
+(
+    [0] => Array
+        (
+            [image] => 10553
+        )
+
+    [1] => Array
+        (
+            [image] => 10554
+        )
+
+)
+</pre><div class="gallery gallery-columns-2 gallery-size-medium"><figure class="gallery-item">
+                    <div class="gallery-icon landscape"><img width="420" height="260" src="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-2-420x260.jpg" class="attachment-medium size-medium" alt="2023 Toyota GR Supra MT" title="2023 Toyota GR Supra MT" data-src="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-2.jpg" decoding="async" loading="lazy" srcset="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-2-420x260.jpg 420w, https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-2-445x277.jpg 445w" sizes="auto, (max-width: 420px) 100vw, 420px" /></div>
+                </figure><figure class="gallery-item">
+                    <div class="gallery-icon landscape"><img width="420" height="260" src="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-3-420x260.jpg" class="attachment-medium size-medium" alt="2023 Toyota GR Supra MT 1" title="2023 Toyota GR Supra MT 1" data-src="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-3.jpg" decoding="async" loading="lazy" srcset="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-3-420x260.jpg 420w, https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-3-445x277.jpg 445w" sizes="auto, (max-width: 420px) 100vw, 420px" /></div>
+                </figure></div><div style="margin-bottom: 15px;"><p>The double-joint McPherson strut front and multi-link rear suspensions have been retuned for all ’23 Supras with upgraded shocks designed to further minimize roll without adversely affecting handling. Brembo-based brake hardware is the same as before, but the control system has been recalibrated. They had great initial bite and helped us well throughout our track days. Drive modes are easy to dial in, and work with vehicle stability systems that have also been recalibrated. Plenty of chassis bracing is in place to tie it all together.</p>
+<p>The shifter itself is smooth to operate and clutch action feels just right, not too heavy or too light. Integrated electronics not only allow for automatic rev matching, but also manipulate clutch engagement to maximize torque delivery. All-in-all, we’d say the manual is exactly what the Supra needed, as it makes it more fun than before; and at the end of the day, that’s what it’s all about.</p>
+<p>There’s an active rear differential that helps the Supra put power down quite effectively out of corners; with a 3.46 ratio that’s higher than the automatic’s 3.15. It not only provides a much torquier overall feel but keeps the engine in its north of 5,000-rpm sweet spot more often. 275/55 Michelin Pilot Super Sports provided plenty of grip, perfect for minor amounts of controlled oversteer for rotating through corners. For ultra-tight low speed corners, there’s new Hairpin+ programming in the traction control that allows more wheel spin than before, plus the active rear shifts power to keep drive off strong instead of just inducing a bunch of power-on oversteer.</p>
+<p>That upgraded rear partially helps negate the pause for shifting during straight-line acceleration runs, taking us just 2/10ths longer to hit 60 than the automatic at 4.3-seconds. It&#8217;s an easy manual car to launch consistently, as everything has plenty of feel, yet is not too abrupt or firm for daily use. With power delivery staying consistent throughout the ¼-mile, which we finished in 12.8-seconds at 115 miles-per-hour.</p>
+</div><p class="full-img"><img width="1205" height="600" src="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-4-1205x600.jpg" class="attachment-full-content size-full-content" alt="2023 Toyota GR Supra MT Interior" title="2023 Toyota GR Supra MT Interior" data-src="https://motorweek.org/wp-content/uploads/2023/03/2023-toyota-gr-supra-mt-4.jpg" decoding="async" loading="lazy" /><span class="caption">2023 Toyota GR Supra MT Dashboard | Toyota</span></p><div style="margin-bottom: 15px;"><p>Some changes have taken place inside, as the center console has been reconfigured to house the shifter, moving the iDrive-like controller to the right a bit. And just because you’re tasked with shifting gears doesn’t mean you have to give up any amenities, as Premium trim is still available with great leather seats, Head-Up display, and 12-speaker JBL premium audio.</p>
+<p>Nothing changes outside, with the exception of this new Stratosphere Blue paint option. Same low-slung swooping body panels as before, draped over 19-inch forged aluminum wheels with red Brembo brake calipers behind. We’re glad they’ve resisted the urge to throw on a bunch of gaudy graphic tacky add-ons.</p>
+<p>Really, the only thing to carp about is fuel economy. The hardware tradeoff is significant. Government Fuel Economy Ratings drops from the automatics 23-City, 31-Highway, and 26-Combined, to 19-City, 27-Highway, and 21-Combined. That’s a worse than average Energy Impact Score, using 14.2-barrels of oil yearly with CO2 emissions of 6.8-tons.</p>
+<p>Since the manual transmission is not available with the standard 2.0-liter engine, it’s not the bargain option; but at least it won’t cost you any more than the automatic, as both start at $54,095; Premium trim at $57,245.</p>
+<p>It almost seems odd to even say that such a simple thing as a step backwards in technology could have such a huge positive impact on the 2023 Toyota GR Supra. But it only takes one drop of truffle oil to inject some huge flavor into whatever it is you’re cooking, and if you plan on cooking your way through a few track days, why not show up with the best ingredients possible for having a rip-roaring good time in the Toyota GR Supra.</p>
+</div>    <div class="specifications">
+        <div class="heading">
+            <h2>Specifications</h2>
+        </div>
+        <div class="flex-box">
+            <div class="col">
+                        <ul><li><strong>Engine:</strong> 3.0L I-6 turbo</li><li><strong>Torque:</strong> 368 lb-ft.</li><li><strong>1/4 Mile:</strong> 12.8 seconds at 115 mph</li></ul>
+                    </div><div class="col">
+                        <ul><li><strong>Horsepower:</strong> 382</li><li><strong>0-60 mph:</strong> 4.3 seconds</li><li><strong>EPA:</strong> 19 City / 27 Highway / 21 Combined</li></ul>
+                    </div>        </div>
+            </div>
+																<div class="podcast">
+							<a class="link" href="https://motorweek.org/podcast/a-rundown-of-this-years-performance-testing-at-roebling-road-raceway/">Listen to Podcast #296</a>
+						</div>
+															<div class="story-next">
+												<a rel="next" class="link back" href="/reviews/">Back to list</a>
+						<a rel="next" class="link" href="https://motorweek.org/road-tests/2025-mini-countryman-s-all4/">Next Story</a>					</div>
+				</div>
+			</div>
+		</section>
+	<div class="popup-images">
+	<div class="popup-content">
+		<button class="close">Close</button>
+		<div class="popup-slider">
+			
+		</div>
+	</div>
+</div>
+		<footer id="colophon" class="site-footer">
+			<div class="container">
+				<div class="flex-box">
+					<div class="footer-form">
+						<script type="text/javascript"></script>
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <h2 class="gform_title">Stay up to date with us</h2>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/road_tests/2023-toyota-gr-supra-mt-2/#gf_1' data-formid='1' novalidate><div class='gf_invisible ginput_recaptchav3' data-sitekey='6LetpxIjAAAAAOxccCq9R46872z2wJkgNUcT8bDS' data-tabindex='0'><input id="input_2d7a60f2b919364ce096d6d4aeca9888" class="gfield_recaptcha_response" type="hidden" name="input_2d7a60f2b919364ce096d6d4aeca9888" value=""/></div>
+                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_1_1" class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_1" ><label class='gfield_label gform-field-label' for='input_1_1'>Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_1_1' type='email' value='' class='large'   placeholder='Email' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_1_2" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_2" ><label class='gfield_label gform-field-label' for='input_1_2'>Comments</label><div class='ginput_container'><input name='input_2' id='input_1_2' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_2'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Subscribe'  onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=1&amp;description=&amp;tabindex=0&amp;theme=gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImUyNDA4NTBhMjdiMjY3Y2RkNTNiM2JkM2JmNjhkODE1Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://motorweek.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://motorweek.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+					</div>
+										<div class="footer-menu">
+						<ul id="menu-footer-menu" class="menu"><li id="menu-item-10175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10175"><a href="https://motorweek.org/watch/">Station Listings</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a target="_blank" href="https://www.pbs.org/show/motor-week/">Watch Full Episodes</a></li>
+<li id="menu-item-10176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10176"><a href="https://motorweek.org/podcast-list/">Latest Podcast</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="https://www.mpt.org/support/vehicles/#:~:text=Donating%20is%20easy!,you%20within%20one%20business%20da">Maryland Vehicle Donation</a></li>
+<li id="menu-item-11284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11284"><a href="https://motorweek.org/season-promos/">Season 44 Promos</a></li>
+<li id="menu-item-10178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10178"><a href="https://motorweek.org/sponsorship/">Sponsorship</a></li>
+<li id="menu-item-10228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10228"><a href="https://motorweek.org/40th-anniversary/">40th Anniversary</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://motorweek.org/contact-us/">Contact Us</a></li>
+</ul>					</div>
+				</div>
+				<div class="flex-box">
+					<a href="https://motorweek.org" class="logo"><img src="https://motorweek.org/wp-content/themes/motorweek/assets/img/logo-footer.svg" alt="MotorWeek" title="MotorWeek"></a>
+					<div class="social-with-terms">
+						<div class="socials">
+							<h3>Follow Us</h3>
+							<a href="https://www.facebook.com/MotorWeekTV/" target="_blank" class="facebook"><svg xmlns="http://www.w3.org/2000/svg" id="ico_facebook_ACTIVE" width="14.83" height="31.781" viewBox="0 0 14.83 31.781"><path id="ico_facebook_ACTIVE-2" data-name="ico_facebook_ACTIVE" d="M59.757,76.988H53.184V61.1H49.9V55.62h3.287V52.333c0-4.466,1.854-7.126,7.122-7.126h4.388v5.479H61.953c-2.051,0-2.187.764-2.187,2.192l-.009,2.742h4.97L64.145,61.1H59.757Z" transform="translate(-49.897 -45.207)" fill="#d6d6d6"/></svg></a><a href="https://twitter.com/MotorWeek" target="_blank" class="twitter"><svg style="width: 32px; height: auto;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></a><a href="https://www.youtube.com/motorweek" target="_blank" class="youtube"><svg xmlns="http://www.w3.org/2000/svg" width="33.9" height="23.836" viewBox="0 0 33.9 23.836"><path id="Icon_awesome-youtube" data-name="Icon awesome-youtube" d="M34.242,8.23a4.26,4.26,0,0,0-3-3.017C28.6,4.5,18,4.5,18,4.5s-10.6,0-13.245.713a4.26,4.26,0,0,0-3,3.017,44.685,44.685,0,0,0-.708,8.213,44.685,44.685,0,0,0,.708,8.213,4.2,4.2,0,0,0,3,2.968C7.4,28.336,18,28.336,18,28.336s10.6,0,13.245-.713a4.2,4.2,0,0,0,3-2.968,44.684,44.684,0,0,0,.708-8.213,44.684,44.684,0,0,0-.708-8.213ZM14.533,21.483V11.4l8.86,5.041-8.86,5.04Z" transform="translate(-1.05 -4.5)" fill="#d6d6d6"/></svg></a><a href="#" target="_blank" class="linkedin"><svg xmlns="http://www.w3.org/2000/svg" id="ico_linkedin_passive" width="31.782" height="30.379" viewBox="0 0 31.782 30.379"><path id="Path_3" data-name="Path 3" d="M196.24,146.426v-20.5h-6.81v20.5Zm-3.4-23.3a3.793,3.793,0,1,0-.046,0Z" transform="translate(-189.028 -116.047)" fill="#d6d6d6" fill-rule="evenodd"/><path id="Path_4" data-name="Path 4" d="M195.23,142.333h6.814V130.887a4.576,4.576,0,0,1,.225-1.663,3.723,3.723,0,0,1,3.493-2.492c2.465,0,3.452,1.879,3.452,4.635v10.965h6.814V130.581c0-6.3-3.363-9.226-7.844-9.226A6.788,6.788,0,0,0,202,124.807h.046v-2.97H195.23c.09,1.922,0,20.5,0,20.5Z" transform="translate(-184.245 -111.954)" fill="#d6d6d6" fill-rule="evenodd"/></svg></a><a href="https://www.instagram.com/motorweek/" target="_blank" class="instagram"><svg xmlns="http://www.w3.org/2000/svg" width="34.359" height="34.351" viewBox="0 0 34.359 34.351"><path id="Icon_awesome-instagram" data-name="Icon awesome-instagram" d="M17.178,10.606a8.807,8.807,0,1,0,8.807,8.807A8.793,8.793,0,0,0,17.178,10.606Zm0,14.533A5.726,5.726,0,1,1,22.9,19.413a5.736,5.736,0,0,1-5.726,5.726ZM28.4,10.246a2.054,2.054,0,1,1-2.054-2.054A2.049,2.049,0,0,1,28.4,10.246Zm5.833,2.085c-.13-2.752-.759-5.189-2.775-7.2s-4.446-2.637-7.2-2.775c-2.836-.161-11.337-.161-14.173,0a10.218,10.218,0,0,0-7.2,2.767C.874,7.134.253,9.571.115,12.323-.046,15.159-.046,23.66.115,26.5c.13,2.752.759,5.189,2.775,7.2s4.446,2.637,7.2,2.775c2.836.161,11.337.161,14.173,0,2.752-.13,5.189-.759,7.2-2.775s2.637-4.446,2.775-7.2c.161-2.836.161-11.329,0-14.165ZM30.569,29.539A5.8,5.8,0,0,1,27.3,32.8c-2.261.9-7.627.69-10.126.69s-7.872.2-10.126-.69a5.8,5.8,0,0,1-3.265-3.265c-.9-2.261-.69-7.627-.69-10.126s-.2-7.872.69-10.126A5.8,5.8,0,0,1,7.052,6.022c2.261-.9,7.627-.69,10.126-.69s7.872-.2,10.126.69a5.8,5.8,0,0,1,3.265,3.265c.9,2.261.69,7.627.69,10.126S31.466,27.285,30.569,29.539Z" transform="translate(0.005 -2.238)" fill="#d6d6d6"/></svg></a><a href="https://motorweek.org/podcast-list/" target="_blank" class="podcast"><svg xmlns="http://www.w3.org/2000/svg" width="27.809" height="31.782" viewBox="0 0 27.809 31.782"><path id="Icon_awesome-podcast" data-name="Icon awesome-podcast" d="M16.6,30.327c-.319,1.18-1.525,1.455-2.7,1.455s-2.377-.275-2.7-1.455a45.232,45.232,0,0,1-1.277-8.244c0-2.182,1.933-2.716,3.973-2.716s3.973.533,3.973,2.716A45.276,45.276,0,0,1,16.6,30.327ZM9.737,17.912a5.959,5.959,0,1,1,8.334,0,.373.373,0,0,0,.039.57,4.13,4.13,0,0,1,1.318,1.574.37.37,0,0,0,.587.117,8.939,8.939,0,1,0-12.222,0,.37.37,0,0,0,.587-.117A4.129,4.129,0,0,1,9.7,18.482a.373.373,0,0,0,.039-.57ZM13.9,0a13.909,13.909,0,0,0-6.1,26.407.372.372,0,0,0,.53-.392c-.148-.963-.27-1.921-.336-2.752a.374.374,0,0,0-.166-.28,10.925,10.925,0,1,1,11.99.1c-.062.871-.191,1.9-.349,2.932a.372.372,0,0,0,.53.392A13.909,13.909,0,0,0,13.9,0Zm0,9.932A3.973,3.973,0,1,0,17.877,13.9,3.973,3.973,0,0,0,13.9,9.932Z" fill="#d6d6d6"/></svg></a>						</div>
+							<style>.twitter svg {fill: #fff;}</style>
+						<div class="bottom-copyring">
+							<a href="https://www.mpt.org/" target="_blank" class="mpt-logo"><img width="154" height="51" src="https://motorweek.org/wp-content/uploads/2022/10/MPT-Logo-White.svg" class="attachment-logo size-logo" alt="" title="" decoding="async" loading="lazy" /></a>							<div class="terms">
+								<ul id="menu-terms" class="menu"><li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="#">Terms and Conditions</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="#">Privacy Policy</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="#">Cookie Settings</a></li>
+</ul>								<p>Copyright &copy; 2024 MotorWeek</p>
+							</div>
+							<div class="design">
+								Website designed and developed by <a href="https://sutter-group.com" target="_blank" rel="noopener" class="logo-design"><img width="70" height="20" src="https://motorweek.org/wp-content/themes/motorweek/assets/img/sg-logo.svg" alt="Sutter Group" title="Sutter Group"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<script type="text/javascript" src="https://motorweek.org/wp-content/plugins/responsive-youtube-vimeo-popup/assets/js/wp-video-popup.js?ver=2.10.1" id="wp-video-popup-js"></script>
+<script type="text/javascript" id="gforms_recaptcha_recaptcha-js-extra">
+/* <![CDATA[ */
+var gforms_recaptcha_recaptcha_strings = {"site_key":"6LetpxIjAAAAAOxccCq9R46872z2wJkgNUcT8bDS","ajaxurl":"https:\/\/motorweek.org\/wp-admin\/admin-ajax.php","nonce":"1cf97a00bb"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LetpxIjAAAAAOxccCq9R46872z2wJkgNUcT8bDS&amp;ver=1.6.0" id="gforms_recaptcha_recaptcha-js"></script>
+<script type="text/javascript" src="https://motorweek.org/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://motorweek.org/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://motorweek.org/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://motorweek.org/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" defer='defer' src="https://motorweek.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.18" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/motorweek.org\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"Australian Dollar","symbol_left":"$","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"code":"AUD"},"base_url":"https:\/\/motorweek.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/motorweek.org\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"3c9d615f5c44b6e582e58241d7ffb4c2","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://motorweek.org/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.8.18" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer='defer' src="https://motorweek.org/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.8.18" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer='defer' src="https://motorweek.org/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=50c7bea9c2320e16728e44ae9fde5f26" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer='defer' src="https://motorweek.org/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=54e7080aa7a02c83aa61fae430b9d869" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"3c9d615f5c44b6e582e58241d7ffb4c2"}}},"hmr_dev":"","public_path":"https:\/\/motorweek.org\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://motorweek.org/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910" id="gform_gravityforms_theme-js"></script>
+<script type="text/javascript" src="https://motorweek.org/wp-content/plugins/gravityformsrecaptcha/js/frontend-legacy.min.js?ver=1.6.0" id="gforms_recaptcha_frontend-legacy-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }jQuery( "#gform_1" ).on( 'submit', function( event ) {
+	jQuery( '<input>' )
+		.attr( 'type', 'hidden' )
+		.attr( 'name', 'gf_zero_spam_key' )
+		.attr( 'value', 'U73ZOVaq9wMrjljaIr22Bhc0tAaQP2AQJVjiR2dVu6tItNrfP5Gcf1Qjw2XS0szo' )
+		.attr( 'autocomplete', 'new-password' )
+		.appendTo( jQuery( this ) );
+} );} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+</body>
+</html>
